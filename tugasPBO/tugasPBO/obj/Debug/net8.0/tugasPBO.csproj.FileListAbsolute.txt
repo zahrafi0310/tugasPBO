@@ -1,0 +1,14 @@
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\bin\Debug\net8.0\tugasPBO.exe
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\bin\Debug\net8.0\tugasPBO.deps.json
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\bin\Debug\net8.0\tugasPBO.runtimeconfig.json
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\bin\Debug\net8.0\tugasPBO.dll
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\bin\Debug\net8.0\tugasPBO.pdb
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.AssemblyInfoInputs.cache
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.AssemblyInfo.cs
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.csproj.CoreCompileInputs.cache
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.dll
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\refint\tugasPBO.dll
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.pdb
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\tugasPBO.genruntimeconfig.cache
+C:\Users\diana fitri\source\repos\tugasPBO\tugasPBO\obj\Debug\net8.0\ref\tugasPBO.dll
